@@ -43,9 +43,60 @@ nav button{
     align-items: center;
     background: transparent;
     border: 1px solid #fff;
-    padding: 7px 10px;
+    padding: 7px 11px;
 }
 .language-btn img{
     width: 12px;
     margin-left: 5px;
+}
+.globe{
+    margin-right: 7px;
+    width: 12px;
+}
+.header-content{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    margin-top: 100px;
+}
+.header-content h1{
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 70px;
+    max-width: 650px;
+}
+.header-content h3{
+    font-weight: 400;
+    margin-bottom: 20px;
+
+}
+.email-signup{
+   background: #fff;
+   border-radius: 4px;
+   display: flex;
+   align-items: center;
+   margin-top: 30px; 
+   overflow: hidden;
+}
+.header-content p{
+    font-weight: 400;
+    font-size: 20px;
+
+}
+.email-signup input{
+   flex: 1; 
+   border: 0;
+   outline: 0;
+   margin-left: 20px;
+}
+.email-signup button{
+    background: #db0001;
+    border: 0;
+    outline: 0;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    padding: 15px 30px;
 }

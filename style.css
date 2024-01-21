@@ -14,7 +14,7 @@ body{
     height: 100vh;
   /*   background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(images/header-image.png); */
 
-  background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(" http://cdn.shopify.com/s/files/1/0607/5056/1539/articles/netflix.jpg?v=1669877376");
+  background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("https://ceotudent.com/wp-content/uploads/2020/05/netflix-poster.jpg");
 
    /*  http://cdn.shopify.com/s/files/1/0607/5056/1539/articles/netflix.jpg?v=1669877376 */
     background-size: cover;
